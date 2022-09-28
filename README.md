@@ -4,6 +4,8 @@ Project Name: Taohan Zhu's Personal Homepage
 
 Author: Taohan Zhu (https://shanezth.github.io/CS5610_Personal_Page/)
 
+Publish time: Sep - 26 - 2022
+
 Deployed Link: [https://shanezth.github.io/CS5610_Personal_Page/](https://shanezth.github.io/CS5610_Personal_Page/)
 
 Class Link: https://johnguerra.co/classes/webDevelopment_fall_2022/
